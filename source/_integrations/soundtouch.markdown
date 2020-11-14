@@ -18,9 +18,9 @@ Alternatively, you can add the following to your `configuration.yaml` file.
 # Example configuration.yaml
 media_player:
   - platform: soundtouch
-    host: 192.168.1.1
+    host: 192.168.0.11
     port: 8090
-    name: Soundtouch Living Room
+    name: zenek
 ```
 
 Or for multiple hosts
